@@ -8,4 +8,5 @@ Results are based on QCT data between T=298 K and 3000 K. Interpolation to any t
 
 References: 
 * P. J. S. B. Caridade, V. C. Mota and A. J. C. Varandas, J. Phys. Chem. A (submitted for publication).
-* P. J. S. B. Caridade, "RATES: Fortran 95 modules for rate constants with relavance in atmospheric chemistry." (2013) available from [https://github.com/pcaridade/rates.git](https://github.com/pcaridade/rates.git)
+* P. J. S. B. Caridade, "RATES: Fortran 95 modules for rate constants with relavance in atmospheric chemistry." (2013)
+available from [http://pcaridade.github.io/rates/](http://pcaridade.github.io/rates/)
